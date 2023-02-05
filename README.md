@@ -111,7 +111,7 @@
     - Manual way
       - Editing templates in CF desinger or code editor
       - Using the console to input parameters
-      - ![manual-deploy-CF-Stack](./images/manual-deploy-CF-Stack.PNG)
+      - ![manual-deploy-CF-Stack](./images/manual-deploy-cf.PNG)
     - Automated way
       - Editing templates in YAML file 
       - Using the AWS CLI to deploy the templates or using a CD tool
